@@ -2,3 +2,7 @@ github.com/mkhoirurrizqi/module-say-hello v1.0.0 h1:0i7ah9bbbJT3cJlAMgS5ZiDiuCxD
 github.com/mkhoirurrizqi/module-say-hello v1.0.0/go.mod h1:o488D9Stk3xZLboGIDMdSfwHkv8BhECyZn35Drn7468=
 github.com/mkhoirurrizqi/module-say-hello v1.1.0 h1:QNH0QJElhzCQ+mf/ALsqe0zEk4TjpFPA7vhY1wcix2U=
 github.com/mkhoirurrizqi/module-say-hello v1.1.0/go.mod h1:o488D9Stk3xZLboGIDMdSfwHkv8BhECyZn35Drn7468=
+github.com/mkhoirurrizqi/module-say-hello/v2 v2.0.0 h1:/a+zE1U3w+0zDjAdEa0RmjFLJ17rb/bt3m4+DsfKUJo=
+github.com/mkhoirurrizqi/module-say-hello/v2 v2.0.0/go.mod h1:77XWUaJCSFrswCcqDwj4N/QOX2vvcQm7huMxi3ZedFM=
+github.com/mkhoirurrizqi/module-say-hello/v2 v2.1.0 h1:ochBZ/F+WTW8plOkxGfI8fuRtm76uYfq5A11SxXf/cs=
+github.com/mkhoirurrizqi/module-say-hello/v2 v2.1.0/go.mod h1:77XWUaJCSFrswCcqDwj4N/QOX2vvcQm7huMxi3ZedFM=
