@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(module_say_hello.SayHello())
+	fmt.Println(module_say_hello.SayHello("rzq"))
 }
